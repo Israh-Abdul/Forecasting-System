@@ -14,6 +14,8 @@ The various libraries that are used contains:
 
 5.numpy
 
+-----------------------
+
 Software Requirements to implement the project
 
 1.Jupyter Notebook/Google collab
